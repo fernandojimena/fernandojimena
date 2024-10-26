@@ -15,7 +15,7 @@ My name is Fernando, I have a degree in Graphic Design with 5 years of experienc
 Outside of tech, I love movies, video games, listening to music and learning new things.
 
 
-<div align="center"> 
+<div> 
 <h3>Languages</h3>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +25,7 @@ Outside of tech, I love movies, video games, listening to music and learning new
   <!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
 </div>
 
-<div align="center"> 
+<div> 
 <h3>Program Design</h3>
 
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
@@ -34,7 +34,7 @@ Outside of tech, I love movies, video games, listening to music and learning new
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<div align="center"> 
+<div> 
 <h3>Social Media</h3>
 
   <a href="https://www.instagram.com/xifa85/">
@@ -48,7 +48,7 @@ Outside of tech, I love movies, video games, listening to music and learning new
   </a>
 </div>
 
-<div align="center"> 
+<div> 
 <h3>Works</h3>
   <a href="https://drive.google.com/drive/folders/1-vVVbYrkPLzFrp9oNFiU1hGnMXugOQsH?usp=sharing">
   <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
